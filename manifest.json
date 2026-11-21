@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Careu – analiză meciuri",
+  "short_name": "Careu",
+  "description": "Analiză de meciuri de fotbal cu date live: formă, program, cote și probabilități pentru goluri, cornere și cartonașe.",
+  "lang": "ro",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0B111A",
+  "theme_color": "#0B111A",
+  "categories": ["sports"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
